@@ -91,8 +91,13 @@ aside {
 }
 
 /* Main page content */
-.float-left, .float-right {
+.float-left {
   float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
   margin-right: 25px;
 }
 
